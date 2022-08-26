@@ -1,4 +1,3 @@
 My second readme
-Another commit
-Another of the commit
+Request to commit from github
 
